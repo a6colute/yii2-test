@@ -1,2 +1,4 @@
 # yii2-test
- test
+ /catalog - список товаров с фильтром
+ 
+ /products - админка товаров
